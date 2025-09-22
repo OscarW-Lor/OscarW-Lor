@@ -7,5 +7,5 @@ I am studying in [CuatroVientos](https://cuatrovientos.org)
 
 My skills are:
 - Learning anything now
-- Deperative System
+
 
